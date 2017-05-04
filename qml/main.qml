@@ -3,7 +3,7 @@ import MyQWidgetComponents 1.0
 
 Item {
     id: window
-    width: 320; height: button.height+calendar.height
+    width: 340; height: button.height+calendar.height+table.height
     PushButton{
         id: button
         onClicked: {
@@ -20,5 +20,10 @@ Item {
         }
         width: parent.width
     }
-
+    Table{
+        id:table
+        x: 0
+        y: calendar.y+calendar.height
+        width: parent.width
+    }
 }

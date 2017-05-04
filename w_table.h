@@ -16,7 +16,6 @@ public slots:
 
 private:
     QTableWidget *widget;
-
 };
 
 #endif // W_TABLE_H
