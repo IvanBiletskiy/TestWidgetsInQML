@@ -1,2 +1,2 @@
 # TestWidgetsInQML
-![screenshot of sample](http://webdesign.ru.net/images/Heydon_min.jpg)
+![screenshot of sample](https://image.ibb.co/fJ6pRQ/image.png)
